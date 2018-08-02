@@ -1,1 +1,1 @@
-# craftclub-landing
+# CraftClub Web - Landing Page
