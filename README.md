@@ -1,2 +1,2 @@
 # CraftClub Web
-[Temporary Landing link](https://thestd.github.io/craftclub-landing/)
+[Temporary Landing link](https://craftclub.std.community/)
