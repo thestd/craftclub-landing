@@ -1,1 +1,2 @@
-# CraftClub Web - Landing Page
+# CraftClub Web
+[Temporary Landing link](https://thestd.github.io/craftclub-landing/)
